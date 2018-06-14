@@ -2,7 +2,7 @@ public class Curso{
 	private int codigo;
 	private String nome;
 	public Curso(){
-		this.codigo=null;
+		this.codigo=0;
 		this.nome=null;
 	}
 	public Curso(String nome, int codigo){

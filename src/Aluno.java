@@ -5,7 +5,7 @@ public class Aluno{
 	
 	public Aluno(){
 		this.nome=null;
-		this.matricula=null;
+		this.matricula=0;
 	}
 	public Aluno (String nome, int matricula){
 		this.nome=nome;

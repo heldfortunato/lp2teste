@@ -2,7 +2,7 @@ public class Disciplina{
 	private int codigo;
 	private String nome;
 	public Disciplina(){
-		this.codigo=null;
+		this.codigo=0;
 		this.nome=null;
 	}
 	public Disciplina(String nome, int codigo){

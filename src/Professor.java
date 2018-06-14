@@ -5,7 +5,7 @@ public class Professor{
 	
 	public Professor(){
 		this.nome=null;
-		this.matricula=null;
+		this.matricula=0;
 	}
 	public Professor (String nome, int matricula){
 		this.nome=nome;
